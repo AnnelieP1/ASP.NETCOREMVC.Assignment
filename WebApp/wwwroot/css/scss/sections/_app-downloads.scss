@@ -1,0 +1,81 @@
+.app-downloads {
+    background-color: var(--color-gray-100);
+
+    .container {
+        background-color: var(--color-gray-200);
+        padding: 20px;
+
+        display: flex;
+
+        .left-picture {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+        }
+
+        .right-texts {
+            flex: 1;
+            
+
+            h2 {
+                font-size: 40px;
+                font-weight: 800;
+                width: 100%;
+                margin-top: 50px;
+                
+            }
+
+            .download {
+               
+                margin-top: 50px;
+
+                .store-name {
+                    color: var(--color-gray-600);
+                    font-size: 16px;
+                    font-weight: 160;
+                }
+
+                .app-rating {
+                    margin-top: 0;
+                }
+
+                .download-app {
+
+                    display: flex;
+                    gap: 40px;
+                    
+                    
+                    
+                    .download-app-info {
+                        margin-top: 0;
+                        margin-bottom: 0;
+                        
+                        
+                        h4 {
+                            font-size: 24px;
+                            font-weight: 700;
+                            margin-top: 0;
+                            margin-bottom: 0;
+                            
+                        }
+    
+                        p {
+                            font-size: 16px;
+                            color: var(--color-gray-600);
+                            margin-top: 0;
+                            margin-bottom: 0;
+                            
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+
+

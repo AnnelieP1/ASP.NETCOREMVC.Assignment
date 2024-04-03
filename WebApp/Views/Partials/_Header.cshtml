@@ -1,0 +1,48 @@
+﻿@using Microsoft.AspNetCore.Identity
+<header>
+
+    <div class="container">
+
+        <a asp-action="Home" asp-controller="Default" class="logo"><img src="~/images/header-logo/logo-silicon.svg" alt="logotype_Silicon"></a>
+
+        <nav class="nav-menu">
+
+            <a asp-action="Home" asp-controller="Default" class="nav-link">Overview</a>
+            <a asp-action="Features" asp-controller="Default" class="nav-link">Features</a>
+            <a asp-action="Contact" asp-controller="Default" class="nav-link">Contact</a>
+
+        </nav>
+
+        <div class="theme-switch">
+            <label for="theme-switch-mode">Light</label>
+            <label class="switch">
+                <input id="theme-switch-mode" type="checkbox">
+                <span class="slider round"></span>
+            </label>
+            <label for="theme-switch-mode">Dark</label>
+        </div>
+
+        <div class="account-buttons">
+            @if (SignInManager.IsSignedIn(User))
+            {
+               <div class="profile">
+                   <div class="image">
+                       <a asp-controller="Account" asp-action="Details">
+                           <img src="~/images/subscribearrow.svg" alt="" />
+                       </a>
+                    </div>
+                </div>
+            }
+            else
+            {
+                <a asp-action="SignIn" asp-controller="Authentication" class="btn btn-secondary"><i class="fa-regular fa-arrow-right-to-bracket"></i>Sign in</a>
+                <a asp-action="SignUp" asp-controller="Authentication" class="btn btn-theme"><i class="fa-regular fa-user"></i>Sign up</a>
+            }
+            
+        </div>
+
+        <button class="btn btn-menu"><i class="fa-regular fa-bars"></i></button>
+
+    </div>
+
+</header>

@@ -1,0 +1,78 @@
+header {
+
+    padding: 15px 0;
+
+    .container {
+        display: grid;
+        align-items: center;
+        gap: 40px;
+        grid-template-columns: 1fr auto;
+        grid-template-areas: "logo mobile";
+
+        @include md {
+            grid-template-columns: 1fr auto auto;
+            grid-template-areas: "logo switch mobile";
+        }
+
+        @include xl {
+            grid-template-columns: auto 1fr auto auto;
+            grid-template-areas: "logo nav switch accounts";
+        }
+
+        .logo {
+            grid-area: logo;
+        
+        }
+
+        .nav-menu{
+            grid-area: nav;
+            display: none;
+            
+
+            @include xl {
+                display: flex;
+                gap: 20px;
+            }
+
+            .nav-link {
+                font-size: 20px;
+                text-decoration: none;
+                font-weight: 600;
+                color: var(--color-gray-900);
+                &.active,
+                &:hover {
+                    color: var(--color-theme);
+                }
+            }
+        }
+
+        .theme-switch {
+            grid-area: switch;
+            display: none;
+
+            @include md {
+                display: block;
+            }
+        }
+
+        .account-buttons {
+            grid-area: accounts;
+            display: none;
+
+            @include xl {
+                display: flex;
+                gap: 10px;
+            }
+        }
+
+        .btn-menu{
+            grid-area: mobile;
+
+            @include xl {
+                display: none;
+            }
+        }
+
+
+    }
+}

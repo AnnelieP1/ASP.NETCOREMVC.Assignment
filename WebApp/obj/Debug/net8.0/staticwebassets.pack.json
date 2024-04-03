@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\images\\TaskMasterImage\\TaskMasterImage.svg",
+      "PackagePath": "staticwebassets\\css\\images\\TaskMasterImage\\TaskMasterImage.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\images\\logo-silicon.svg",
+      "PackagePath": "staticwebassets\\css\\images\\logo-silicon.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\images\\logos\\logo.svg",
+      "PackagePath": "staticwebassets\\css\\images\\logos\\logo.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\images\\logos\\logo2.svg",
+      "PackagePath": "staticwebassets\\css\\images\\logos\\logo2.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\images\\logos\\logo3.svg",
+      "PackagePath": "staticwebassets\\css\\images\\logos\\logo3.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\images\\logos\\logo4.svg",
+      "PackagePath": "staticwebassets\\css\\images\\logos\\logo4.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_components.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\_cores.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_cores.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\_sections.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_sections.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\components\\_boxes.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_boxes.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\components\\_switches.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_switches.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\components\\_titles.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_titles.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\cores\\_colors.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_colors.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\cores\\_general.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_general.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\cores\\_media.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_media.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\cores\\_typography.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_typography.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\sections\\_app-downloads.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_app-downloads.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\sections\\_features.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_features.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\sections\\_footer.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_footer.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\sections\\_header.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_header.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\sections\\_lightordarkmode.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_lightordarkmode.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\sections\\_showcase.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_showcase.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\sections\\_signin.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_signin.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\sections\\_subscribe.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_subscribe.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\sections\\_timplanner.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_timplanner.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\sections\\_work-tools.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_work-tools.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\scss\\sections\\signup.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\signup.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\css\\site.scss",
+      "PackagePath": "staticwebassets\\css\\site.scss"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\TaskMasterImage\\TaskMasterImage.svg",
+      "PackagePath": "staticwebassets\\images\\TaskMasterImage\\TaskMasterImage.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\brands\\brands-logo1.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\brands-logo1.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\brands\\brands-logo2.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\brands-logo2.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\brands\\brands-logo3.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\brands-logo3.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\brands\\brands-logo4.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\brands-logo4.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\email-icon.svg",
+      "PackagePath": "staticwebassets\\images\\email-icon.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\header-logo\\logo-silicon.svg",
+      "PackagePath": "staticwebassets\\images\\header-logo\\logo-silicon.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\icon-group\\icon1.svg",
+      "PackagePath": "staticwebassets\\images\\icon-group\\icon1.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\icon-group\\icon2.svg",
+      "PackagePath": "staticwebassets\\images\\icon-group\\icon2.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\icon-group\\icon3.svg",
+      "PackagePath": "staticwebassets\\images\\icon-group\\icon3.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\icon-group\\icon4.svg",
+      "PackagePath": "staticwebassets\\images\\icon-group\\icon4.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\icon-group\\icon5.svg",
+      "PackagePath": "staticwebassets\\images\\icon-group\\icon5.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\icon-group\\icon6.svg",
+      "PackagePath": "staticwebassets\\images\\icon-group\\icon6.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\lightanddarkmodescreen\\Slider.svg",
+      "PackagePath": "staticwebassets\\images\\lightanddarkmodescreen\\Slider.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\manageyourwork\\check.svg",
+      "PackagePath": "staticwebassets\\images\\manageyourwork\\check.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\manageyourwork\\checkboxround.svg",
+      "PackagePath": "staticwebassets\\images\\manageyourwork\\checkboxround.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\manageyourwork\\roundcheckbox.svg",
+      "PackagePath": "staticwebassets\\images\\manageyourwork\\roundcheckbox.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\manageyourwork\\schedule.svg",
+      "PackagePath": "staticwebassets\\images\\manageyourwork\\schedule.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\screens\\appstore.svg",
+      "PackagePath": "staticwebassets\\images\\screens\\appstore.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\screens\\googleplay.svg",
+      "PackagePath": "staticwebassets\\images\\screens\\googleplay.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\screens\\screens.svg",
+      "PackagePath": "staticwebassets\\images\\screens\\screens.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\screens\\star1.svg",
+      "PackagePath": "staticwebassets\\images\\screens\\star1.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\screens\\star2.svg",
+      "PackagePath": "staticwebassets\\images\\screens\\star2.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\screens\\star3.svg",
+      "PackagePath": "staticwebassets\\images\\screens\\star3.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\screens\\star4.svg",
+      "PackagePath": "staticwebassets\\images\\screens\\star4.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\screens\\star5.svg",
+      "PackagePath": "staticwebassets\\images\\screens\\star5.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\subscribearrow.svg",
+      "PackagePath": "staticwebassets\\images\\subscribearrow.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\worktools\\work-tool-box-1.svg",
+      "PackagePath": "staticwebassets\\images\\worktools\\work-tool-box-1.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\worktools\\work-tool-box-2.svg",
+      "PackagePath": "staticwebassets\\images\\worktools\\work-tool-box-2.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\worktools\\work-tool-box-3.svg",
+      "PackagePath": "staticwebassets\\images\\worktools\\work-tool-box-3.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\worktools\\work-tool-box-4.svg",
+      "PackagePath": "staticwebassets\\images\\worktools\\work-tool-box-4.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\worktools\\work-tool-box-5.svg",
+      "PackagePath": "staticwebassets\\images\\worktools\\work-tool-box-5.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\worktools\\work-tool-box-6.svg",
+      "PackagePath": "staticwebassets\\images\\worktools\\work-tool-box-6.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\worktools\\work-tool-box-7.svg",
+      "PackagePath": "staticwebassets\\images\\worktools\\work-tool-box-7.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\images\\worktools\\work-tool-box-8.svg",
+      "PackagePath": "staticwebassets\\images\\worktools\\work-tool-box-8.svg"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\wwwroot\\js\\validation.js",
+      "PackagePath": "staticwebassets\\js\\validation.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApp.props",
+      "PackagePath": "build\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApp.props",
+      "PackagePath": "buildTransitive\\WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

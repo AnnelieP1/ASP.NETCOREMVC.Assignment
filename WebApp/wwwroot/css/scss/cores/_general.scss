@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+:root {
+    --color-white: #ffffff;
+    --color-black: #000000;
+    --color-theme: #6366F1;
+    --color-theme-o: #6365f1e6;
+    --color-danger: #EF4444;
+    --color-gray-100: #F3F6FF;
+    --color-gray-200: #EFF2FC;
+    --color-gray-300: #E2E5F1;
+    --color-gray-400: #D4D7E5;
+    --color-gray-500: #B4B7C9;
+    --color-gray-600: #9397AD;
+    --color-gray-700: #565973;
+    --color-gray-800: #33354D;
+    --color-gray-900: #0B0F19;
+    
+}
+
+*,
+*::before,
+* ::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "manrope", sans-serif;
+    line-height: 1.5;
+    color: var(--color-gray-800);
+}
+
+.wrapper {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    height: 100vh;
+}
+
+.container {
+
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+
+    @include sm {
+            max-width: 540px;
+        }
+
+    @include md {
+            max-width: 720px;
+        }
+
+    @include lg {
+            max-width: 960px;
+        }
+
+    @include xl {
+            max-width: 1140px;
+        }
+
+    @include xxl {
+            max-width: 1320px;
+        }
+
+
+}
+
+h1 {
+
+    font-size: 32px;
+
+
+    @include lg {
+        font-size: 40px;
+    }
+
+    @include xl {
+        font-size: 52px;
+    }
+}
+
+a {
+    color: var(--color-theme);
+
+    &:hover {
+        text-decoration: none;
+    }
+}

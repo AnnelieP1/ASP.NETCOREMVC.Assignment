@@ -1,0 +1,68 @@
+﻿@model SignUpViewModel
+@{
+    ViewData["Title"] = "Sign up";
+}
+
+<section class="signup">
+    <div class="container">
+
+        <form method="post" asp-controller="Authentication" asp-action="SignUp">
+
+            <div>
+                @ViewData["StatusMessage"]
+            </div>
+
+            <h1>Create Account</h1>
+            <p>Already have an account?<a asp-controller="Authentication" asp-action="SignIn"> Sign in here</a></p>
+            
+            <div class="form-content">
+                <div class="input-firstname input-group">
+                    <label class="input-label" asp-for="FirstName"></label>
+                    <input asp-for="FirstName" />
+                    <span asp-validation-for="FirstName"></span>
+                </div>
+
+                <div class="input-lastname input-group">
+                    <label class="input-label" asp-for="LastName"></label>
+                    <input asp-for="LastName" />
+                    <span asp-validation-for="LastName"></span>
+                </div>
+
+                <div class="input-email input-group">
+                    <label class="input-label" asp-for="Email"></label>
+                    <input asp-for="Email" />
+                    <span asp-validation-for="Email"></span>
+                </div>
+
+                <div class="input-password input-group">
+                    <label class="label" asp-for="Password"></label>
+                    <input asp-for="Password" />
+                    <span asp-validation-for="Password"></span>
+                </div>
+
+                <div class="input-confirm input-group">
+                    <label class="input-label" asp-for="ConfirmPassword"></label>
+                    <input asp-for="ConfirmPassword" />
+                    <span asp-validation-for="ConfirmPassword"></span>
+                </div>
+
+
+                <div class="checkbox-group">
+                    <div class="input-group">
+                        <input asp-for="TermsAndConditions" />
+                        <label asp-for="TermsAndConditions">
+                            I agree to the <a asp-action="Terms">Terms</a> & <a asp-action="Conditions" asp-controller="About">Conditions</a>.
+                        </label>
+                    </div>
+                    <span asp-validation-for="TermsAndConditions"></span>
+                </div>
+
+                <button class="btn btn-theme" type="submit">Sign Up</button> 
+                
+            </div>
+  
+        </form>
+
+    </div>
+
+</section>

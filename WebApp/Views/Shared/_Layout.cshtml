@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/a041cc045c.js" asp-append-version="true" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <title>
+        @(!string.IsNullOrEmpty(@ViewData["Title"]?.ToString()) ? ViewData["Title"] + " | Silicon" : "Silicon")
+    </title>
+
+</head>
+<body>
+
+    <div class="wrapper">
+        <partial name="~/Views/Partials/_Header.cshtml" />
+  
+        <main>
+            @RenderBody()
+        </main>
+
+        <partial name="~/Views/Partials/_Footer.cshtml" />
+
+    </div>
+    <script src="https://kit.fontawesome.com/a041cc045c.js" asp-append-version="true" crossorigin="anonymous"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script> 
+    <script src="~/js/validation.js" asp-append-version="true"></script>
+</body>
+</html>

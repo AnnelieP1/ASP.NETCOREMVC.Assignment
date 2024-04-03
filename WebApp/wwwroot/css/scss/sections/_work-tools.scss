@@ -1,0 +1,22 @@
+.work-tools {
+    .container {
+        text-align: center;
+
+        .boxes {
+            display: grid;
+            grid-template-columns: 1fr auto auto auto;
+            text-align: center;
+        }
+    }
+}
+
+.w-tools {
+
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-gray-900);
+
+
+}

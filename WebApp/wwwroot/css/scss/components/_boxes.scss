@@ -1,0 +1,22 @@
+.feature-box {
+    padding: 20px;
+    transition: all 0.1s ease-in-out;
+
+    &:hover {
+        background-color: var(--color-white);
+    }
+
+
+    h5 {
+        font-size: 20px;
+        margin: 0;
+    }
+
+    img {
+        padding: 20px;
+        background-color: var(--color-gray-100);
+        margin: 20px;
+        border-radius: 8px;
+    }
+
+}

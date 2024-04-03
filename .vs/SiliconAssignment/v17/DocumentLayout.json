@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8BADE6-02A5-41DA-94B2-5208BF90AD1C}|WebApp\\WebApp.csproj|c:\\asp.net.mvc.core.1.assignment\\siliconassignment\\webapp\\views\\partials\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A8BADE6-02A5-41DA-94B2-5208BF90AD1C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\partials\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8BADE6-02A5-41DA-94B2-5208BF90AD1C}|WebApp\\WebApp.csproj|c:\\asp.net.mvc.core.1.assignment\\siliconassignment\\webapp\\views\\authentication\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A8BADE6-02A5-41DA-94B2-5208BF90AD1C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\authentication\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8BADE6-02A5-41DA-94B2-5208BF90AD1C}|WebApp\\WebApp.csproj|c:\\asp.net.mvc.core.1.assignment\\siliconassignment\\webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A8BADE6-02A5-41DA-94B2-5208BF90AD1C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\Views\\Authentication\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Authentication\\SignIn.cshtml",
+              "ToolTip": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\Views\\Authentication\\SignIn.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Authentication\\SignIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T10:48:11.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T10:42:39.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\Views\\Partials\\_Header.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Partials\\_Header.cshtml",
+              "ToolTip": "C:\\ASP.NET.MVC.CORE.1.Assignment\\SiliconAssignment\\WebApp\\Views\\Partials\\_Header.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Partials\\_Header.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwB4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T10:35:25.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

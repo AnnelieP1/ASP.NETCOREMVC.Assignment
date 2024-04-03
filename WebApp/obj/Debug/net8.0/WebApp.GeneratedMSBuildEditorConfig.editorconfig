@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApp
+build_property.RootNamespace = WebApp
+build_property.ProjectDir = C:\ASP.NET.MVC.CORE.1.Assignment\SiliconAssignment\WebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\ASP.NET.MVC.CORE.1.Assignment\SiliconAssignment\WebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/Authentication/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cU2lnbkluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/Authentication/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/Default/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/Partials/_App-downloads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcX0FwcC1kb3dubG9hZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/Partials/_Features.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcX0ZlYXR1cmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/Partials/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcX0Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/Partials/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcX0hlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/Partials/_Lightordarkmode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcX0xpZ2h0b3JkYXJrbW9kZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/Partials/_Showcase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcX1Nob3djYXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/Partials/_Subscribe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcX1N1YnNjcmliZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/Partials/_Timeplanner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcX1RpbWVwbGFubmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/Partials/_Work-tools.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcX1dvcmstdG9vbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ASP.NET.MVC.CORE.1.Assignment/SiliconAssignment/WebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
